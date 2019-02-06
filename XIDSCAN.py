@@ -13,7 +13,6 @@ logo = '''\033[0m
    ##     #    #    # "#mmm  #       #  #  # #m #
   m""m    #    #    #    "# #       #mm#  #  # #
  m"  "m mm#mm  #mmm" "mmm#" "mmm" #    # #   ## \033[0m  \033[91m    \033[1m 
-           Copyright ©2019 mr_xid
 	   
 	   [/> Coded By: MR_XID <\]
          {/>THANKS TO: D35TROY SQUAD<\}                               
