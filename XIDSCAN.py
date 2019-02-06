@@ -46,10 +46,11 @@ def  select():
       d3 = raw_input('Masukan Ip atau Domain : ')
       os.system("clear")
       print("""
-   _    _ __ ___    _         _ _   _  ___ ___ ____-
-   \ \/ /_ _|  _ \  \ \      / / | | |/ _ \_ _/ ___|
-    \  / | || | | |  \ \ /\ / /| |_| | | | | |\___ \
-   /_/\_\___|____/     \_/\_/  |_| |_|\___/___|____/                               
+  m    m mmmmm  mmmm         m     m m    m  mmmm  mmmmm   mmmm
+   #  #    #    #   "m       #  #  # #    # m"  "m   #    #"   "
+    ##     #    #    #       " #"# # #mmmm# #    #   #    "#mmm
+   m""m    #    #    #        ## ##" #    # #    #   #        "#
+  m"  "m mm#mm  #mmm"         #   #  #    #  #mm#  mm#mm  "mmm#"                               
         """)
       os.system("curl http://api.hackertarget.com/whois/?q=" + d3)
       print("")
