@@ -59,10 +59,11 @@ def  select():
       d3 = raw_input('Masukan Ip atau Domain : ')
       os.system("clear")
       print("""
-   __  _____ ____    _____ ____      _    ____ _____ ____             _
-   \ \/ /_ _|  _ \  |_   _|  _ \    / \  / ___| ____|  _ \ ___  _   _| |_ ___
-    \  / | || | | |   | | | |_) |  / _ \| |   |  _| | |_) / _ \| | | | __/ _ \
-   /_/\_\___|____/    |_| |_| \_\/_/   \_\____|_____|_| \_\___/ \__,_|\__\___|
+    mmmmmmm mmmmm    mm     mmm  mmmmmm.     mmmmm   mmmm  m    mmmmmmmm mmmmmm
+       #    #   "#   ##   m"   " #          #   "# m"  "m #    #   #    #
+       #    #mmmm"  #  #  #      #mmmmm.   #mmmm" #    # #    #   #    #mmmmm
+       #    #   "m  #mm#  #      #        #   "m #    # #    #   #    #
+       #    #    " #    #  "mmm" #mmmmm  #    "m #mm#  "mmmm"   #    #mmmmm
   """)
       os.system("curl https://api.hackertarget.com/mtr/?q=" + d3 )
       print("")
@@ -71,10 +72,11 @@ def  select():
       d3 = raw_input('Masukan Domain : ')
       os.system("clear")
       print("""
-  __  _____ ____    ____  _   _ ____    _     ___   ___   ____ _  ___   _ ____
-  \ \/ /_ _|  _ \  |  _ \| \ | / ___|  | |   / _ \ / _ \ / ___| |/ / | | |  _ \
-   \  / | || | | | | | | |  \| \___ \  | |  | | | | | | | |   | ' /| | | | |_)/
-  /_/\_\___|____/  |____/|_| \_|____/  |_____\___/ \___/ \____|_|\_\\___/|_|
+         mmmm   mm   m  mmmm      m       mmmm   mmmm    mmm  m    m m    m mmmmm
+        #   "m #"m  # #"   "     #      m"  "m m"  "m m"   " #  m"  #    # #   "#
+        #    # # #m # "#mmm     #      #    # #    # #      #m#    #    # #mmm#"
+        #    # #  # #     "#   #      #    # #    # #      #  #m  #    # #
+        #mmm"  #   ## "mmm#"  #mmmmm  #mm#   #mm#   "mmm" #   "m "mmmm" #
  """)
       os.system("curl http://api.hackertarget.com/dnslookup/?q=" + d3 )
       print("")
@@ -83,10 +85,11 @@ def  select():
 	  d3 = raw_input('Masukan IP Address - IP Range Or Domain  : ')
 	  os.system("clear")
 	  print("""
-__  _____ ____                                       ____  _   _ ____
-\ \/ /_ _|  _ \   _ __ _____   _____ _ __ ___  ___  |  _ \| \ | / ___|
- \  / | || | | | | '__/ _ \ \ / / _ \ '__/ __|/ _ \ | | | |  \| \___ \
-/_/\_\___|____/  |_|  \___| \_/ \___|_|  |___/\___| |____/|_| \_|____/
+ mmmmm  mmmmmm m    m mmmmmm mmmmm   mmmm  mmmmmm        mmmm   mm   m  mmmm
+ #   "# #      "m  m" #      #   "# #"   " #            #   "m #"m  # #"   "
+ #mmmm" #mmmmm  #  #  #mmmmm #mmmm" "#mmm  #mmmmm      #    # # #m # "#mmm
+ #   "m #       "mm"  #      #   "m     "# #          #    # #  # #     "#
+ #    " #mmmmm   ##   #mmmmm #    " "mmm#" #mmmmm    #mmm"  #   ## "mmm#" 
  """)
 	  os.system("curl https://api.hackertarget.com/reversedns/?q=" + d3 )
 	  print("")
@@ -95,10 +98,11 @@ __  _____ ____                                       ____  _   _ ____
 	  d3 = raw_input('Masukan Ip atau Domain : ')
 	  os.system("clear")
 	  print("""
-__  _____ ____     ____       ___  _ ____
-\ \/ /_ _|  _ \   / ___| ___ / _ \(_)  _ \
- \  / | || | | | | |  _ / _ \ | | | | |_) |
-/_/\_\___|____/   \____|\___|\___/|_|_|
+   mmm  mmmmmm  mmmm      mmmmm  mmmmm
+ m"   " #      m"  "m      #    #   "#
+ #   mm #mmmmm #    #     #    #mmm#"
+ #    # #      #    #    #    #
+  "mmm" #mmmmm  #mm#  mm#mm  #
          """)
 	  os.system("curl http://api.hackertarget.com/geoip/?q=" + d3 )
 	  print("")
@@ -121,11 +125,11 @@ __  _____ ____     ____       ___  _ ____
 	  d3 = raw_input('Masukan Ip atau Domain : ')
 	  os.system("clear")
 	  print("""
-__  _____ ____    ______     ___       _                     _
-\ \/ /_ _|  _ \  |  _ \ \   / (_)_ __ | |    ___   ___   ___| | ___   _ _ __
- \  / | || | | | | |_) \ \ / /| | '_ \| |   / _ \ / _ \ / __| |/ / | | | '_ \
-/_/\_\___|____/  |_| \_\ \_/  |_| .__/|_____\___/ \___/ \___|_|\_\\__,_| .__/
-                                |_|                                    |_|
+ mmmmm  m    m  mmmmm  mmmmm    m       mmmm   mmmm    mmm  m    m m    m mmmmm
+ #   "# "m  m"    #    #   "#  #      m"  "m m"  "m m"   " #  m"  #    # #   "#
+ #mmmm"  #  #     #    #mmm#" #      #    # #    # #      #m#    #    # #mmm#"
+ #   "m  "mm"     #    #     #      #    # #    # #      #  #m  #    # #
+ #     #   #    mm#mm  #    #mmmmm  #mm#   #mm#   "mmm" #   "m "mmmm" #
   """)
 	  os.system("wget http://api.hackertarget.com/reverseiplookup/?q=" + d3 )
 	  os.system("clear")
