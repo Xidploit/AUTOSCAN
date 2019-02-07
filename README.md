@@ -6,14 +6,14 @@
 
 
 # _MENU TOOLS
-[1]_Whois lookup
-[2]_Traceroute
-[3]_DNS Lookup
-[4]_RV DNS Lookup
-[5]_GeoIP Lookup
-[6]_Port Scan
-[7}_RV IP Lookup
-{99}•Exit
+• Whois lookup
+• Traceroute
+• DNS Lookup
+• RV DNS Lookup
+• GeoIP Lookup
+• Port Scan
+• RV IP Lookup
+• Exit
 
 
 # VERSION 0.0.2
