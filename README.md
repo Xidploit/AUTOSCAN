@@ -1,4 +1,4 @@
-[![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
+[![AUTOSCAN](codexrush.com)](https://www.python.org/downloads/release/python-2714/)
 # INSTALATION [ANDROID]
 
 
