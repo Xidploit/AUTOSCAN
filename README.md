@@ -1,4 +1,4 @@
-[![AUTOSCAN](codexrush.com)](https://www.python.org/downloads/release/python-2714/)
+
 # INSTALATION [ANDROID]
 
 
@@ -17,10 +17,10 @@
 
 
 # VERSION 0.0.2
-# Autor : MR_XID
+# Autor : Mister_XID
 # THANKS: INDONESIAN TERMUX ASSOCIATION | D35TR0Y SQUAD
-# Copyright © 2019 safri nq
-# _______AUTO SCAN__________#
-# ------WEBSITE SCAN VULNRABILITI------#
-# ________|VERSION|_________#
+# Copyright © 2019 Mister_XID
+# AUTO SCAN#
+# WEBSITE SCAN VULNRABILITY #
+# |VERSION|#
 # _________|0.0.2|___________#
